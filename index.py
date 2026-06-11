@@ -63,7 +63,7 @@ else:
     print("inavlid number")'''
 
 
-a=10
+'''a=10
 b=20
 def add():
   print("addition function")
@@ -72,7 +72,7 @@ def sub():
   print("Subtraction function")
   print(a-b)
 add() 
-sub()
+sub()'''
 
 '''def add(x,y):
   print(x+y)
